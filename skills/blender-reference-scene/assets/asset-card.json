@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "id": "example-building",
+  "status": "planned",
+  "reference_version": null,
+  "generation": {
+    "image_route": null,
+    "script_route": null,
+    "selection_scope": null,
+    "confirmation_reference": null
+  },
+  "assignment": {
+    "owner": null,
+    "owned_paths": [],
+    "api_coordinator": null
+  },
+  "coordinates": {
+    "unit": "meter",
+    "right": "+X",
+    "depth": "+Y",
+    "up": "+Z",
+    "front": "-Y",
+    "origin": "ground_center"
+  },
+  "dimensions_m": {
+    "width": null,
+    "depth": null,
+    "height": null
+  },
+  "dimension_basis": null,
+  "character": {
+    "visible_height_m": null,
+    "measurement_basis": null,
+    "collision_height_m": null,
+    "same_scale_comparison": null
+  },
+  "references": {
+    "perspective": null,
+    "front": null,
+    "side": null,
+    "top": null,
+    "sources": []
+  },
+  "components": [],
+  "connections": [],
+  "representation": {
+    "geometry": [],
+    "textures": [],
+    "parallax": [],
+    "collision": []
+  },
+  "materials": [],
+  "camera": {
+    "engine": null,
+    "resolution": null,
+    "expected_asset_screen_height_px": null
+  },
+  "budgets": {
+    "triangles": null,
+    "material_surfaces": null,
+    "texture_memory_mb": null
+  },
+  "review": {
+    "proportions": {
+      "status": "not_reviewed",
+      "sources": [],
+      "changes": [],
+      "exceptions": [],
+      "unresolved": []
+    },
+    "reference_approval": {
+      "status": "pending",
+      "approved_version": null,
+      "asset_scope": [],
+      "confirmation_reference": null,
+      "waiver_scope": null
+    },
+    "geometry": "not_run",
+    "export": "not_run",
+    "engine": "not_run",
+    "visual_match": "not_reviewed",
+    "user_visual_approval": "not_requested"
+  },
+  "outputs": {
+    "blend": null,
+    "engine_asset": null,
+    "textures": [],
+    "preview": null,
+    "engine_capture": null
+  },
+  "privacy_note": "Use project-relative paths. Keep credentials and private approval transcripts outside the published template."
+}

@@ -1,0 +1,19 @@
+# Keep the shareable repository documentation-only by default.
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*KEY*.txt
+*key*.txt
+__pycache__/
+.DS_Store
+*.blend
+*.blend1
+*.glb
+*.fbx
+*.mp4
+*.log
+private/
+local/
+api-state/
